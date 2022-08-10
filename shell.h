@@ -1,5 +1,5 @@
-#ifndef _SHELL_H_
-#define _SHELL_H_
+#ifndef _SHELL_H
+#define _SHELL_H
 
 /*
  * File: shell.h
